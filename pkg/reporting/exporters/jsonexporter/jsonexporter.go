@@ -3,7 +3,7 @@ package jsonexporter
 import (
 	"encoding/json"
 	"github.com/pkg/errors"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
 	"os"
 	"sync"
 )

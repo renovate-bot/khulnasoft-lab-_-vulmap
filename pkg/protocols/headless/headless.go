@@ -4,12 +4,12 @@ import (
 	"github.com/corpix/uarand"
 	"github.com/pkg/errors"
 
-	useragent "github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/userAgent"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/fuzz"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/generators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/headless/engine"
+	useragent "github.com/khulnasoft-lab/vulmap/pkg/model/types/userAgent"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/fuzz"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/generators"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/headless/engine"
 	fileutil "github.com/khulnasoft-lab/utils/file"
 )
 

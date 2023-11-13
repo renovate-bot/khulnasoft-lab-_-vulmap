@@ -3,7 +3,7 @@ package core
 import (
 	"github.com/remeh/sizedwaitgroup"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/types"
 )
 
 // WorkPool implements an execution pool for executing different

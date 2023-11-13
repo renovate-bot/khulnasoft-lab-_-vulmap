@@ -3,13 +3,13 @@ package filter
 import (
 	"testing"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/stringslice"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/dns"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/http"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/model"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/stringslice"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/dns"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/http"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/types"
 	"github.com/stretchr/testify/require"
 )
 

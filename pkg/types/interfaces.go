@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/asaskevich/govalidator"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
 )
 
 // JSONScalarToString converts an interface coming from json to string

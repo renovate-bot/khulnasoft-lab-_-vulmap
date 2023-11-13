@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/contextargs"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/contextargs"
 	urlutil "github.com/khulnasoft-lab/utils/url"
 	"github.com/stretchr/testify/require"
 )

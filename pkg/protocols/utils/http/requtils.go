@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types/scanstrategy"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/types/scanstrategy"
 	"github.com/khulnasoft-lab/retryablehttp-go"
 	urlutil "github.com/khulnasoft-lab/utils/url"
 )

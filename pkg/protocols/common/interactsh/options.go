@@ -4,9 +4,9 @@ import (
 	"time"
 
 	"github.com/projectdiscovery/interactsh/pkg/client"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/progress"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/progress"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting"
 	"github.com/khulnasoft-lab/retryablehttp-go"
 )
 

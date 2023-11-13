@@ -8,7 +8,7 @@ import (
 
 	"github.com/Knetic/govaluate"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/common/dsl"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/common/dsl"
 )
 
 // CompileMatchers performs the initial setup operation on a matcher

@@ -10,12 +10,12 @@ import (
 
 	"github.com/Knetic/govaluate"
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/common/dsl"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/extractors"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/matchers"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/common/dsl"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/extractors"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/matchers"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/types"
 	sliceutil "github.com/khulnasoft-lab/utils/slice"
 )
 

@@ -2,8 +2,8 @@ package inputs
 
 import (
 	"github.com/khulnasoft-lab/httpx/common/httpx"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/contextargs"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/utils"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/contextargs"
+	"github.com/khulnasoft-lab/vulmap/pkg/utils"
 )
 
 type SimpleInputProvider struct {

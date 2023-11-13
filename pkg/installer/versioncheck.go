@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
 	"github.com/khulnasoft-lab/retryablehttp-go"
 	updateutils "github.com/khulnasoft-lab/utils/update"
 )

@@ -1,10 +1,10 @@
 package ldap
 
 import (
-	lib_ldap "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/ldap"
+	lib_ldap "github.com/khulnasoft-lab/vulmap/pkg/js/libs/ldap"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

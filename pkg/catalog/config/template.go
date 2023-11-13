@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/extensions"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/extensions"
 	fileutil "github.com/khulnasoft-lab/utils/file"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )

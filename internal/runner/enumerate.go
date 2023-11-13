@@ -17,13 +17,13 @@ import (
 	"github.com/klauspost/compress/zlib"
 	"github.com/pkg/errors"
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/internal/runner/vulmapcloud"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/loader"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/core"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/contextargs"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/internal/runner/vulmapcloud"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/loader"
+	"github.com/khulnasoft-lab/vulmap/pkg/core"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/contextargs"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // runStandardEnumeration runs standard enumeration

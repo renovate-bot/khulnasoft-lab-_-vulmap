@@ -3,8 +3,8 @@ package workflows
 import (
 	"testing"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/stringslice"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/stringslice"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators"
 	"github.com/stretchr/testify/require"
 )
 

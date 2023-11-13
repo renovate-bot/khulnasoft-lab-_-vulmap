@@ -13,9 +13,9 @@ import (
 	"github.com/olekukonko/tablewriter"
 	"github.com/pkg/errors"
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/internal/runner/vulmapcloud"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/extensions"
+	"github.com/khulnasoft-lab/vulmap/internal/runner/vulmapcloud"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/extensions"
 )
 
 // Get all the scan lists for a user/apikey.

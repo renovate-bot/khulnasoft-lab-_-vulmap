@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/structs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/libs/structs"
 )
 
 // Buffer is a minimal buffer implementation over a byte slice

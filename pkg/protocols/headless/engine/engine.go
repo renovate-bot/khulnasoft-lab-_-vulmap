@@ -11,7 +11,7 @@ import (
 	"github.com/go-rod/rod/lib/launcher/flags"
 	"github.com/pkg/errors"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	fileutil "github.com/khulnasoft-lab/utils/file"
 	osutils "github.com/khulnasoft-lab/utils/os"
 	processutil "github.com/khulnasoft-lab/utils/process"

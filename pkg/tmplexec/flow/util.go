@@ -1,6 +1,6 @@
 package flow
 
-import "github.com/khulnasoft-lab/vulmap/v3/pkg/operators"
+import "github.com/khulnasoft-lab/vulmap/pkg/operators"
 
 // Checks if template has matchers
 func hasMatchers(all []*operators.Operators) bool {

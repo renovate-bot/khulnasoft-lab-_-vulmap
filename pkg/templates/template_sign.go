@@ -7,13 +7,13 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/disk"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolinit"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/extensions"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/signer"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/disk"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolinit"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/extensions"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/signer"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 )
 

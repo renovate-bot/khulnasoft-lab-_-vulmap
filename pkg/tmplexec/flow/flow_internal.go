@@ -7,11 +7,11 @@ import (
 	"github.com/dop251/goja"
 	"github.com/logrusorgru/aurora"
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/utils/vardump"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/tmplexec/flow/builtin"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/utils/vardump"
+	"github.com/khulnasoft-lab/vulmap/pkg/tmplexec/flow/builtin"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	mapsutil "github.com/khulnasoft-lab/utils/maps"
 )
 

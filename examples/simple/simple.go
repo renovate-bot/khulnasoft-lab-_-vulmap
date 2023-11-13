@@ -1,6 +1,6 @@
 package main
 
-import vulmap "github.com/khulnasoft-lab/vulmap/v3/lib"
+import vulmap "github.com/khulnasoft-lab/vulmap/lib"
 
 func main() {
 	ne, err := vulmap.NewVulmapEngine(

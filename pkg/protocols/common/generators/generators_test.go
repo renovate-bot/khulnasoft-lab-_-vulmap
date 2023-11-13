@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/disk"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/disk"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 func TestBatteringRamGenerator(t *testing.T) {

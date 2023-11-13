@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
 )
 
 func TestDedupeDuplicates(t *testing.T) {

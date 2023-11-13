@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/khulnasoft-lab/hmap/store/hybrid"
-	templateTypes "github.com/khulnasoft-lab/vulmap/v3/pkg/templates/types"
+	templateTypes "github.com/khulnasoft-lab/vulmap/pkg/templates/types"
 	fileutil "github.com/khulnasoft-lab/utils/file"
 	"github.com/khulnasoft-lab/utils/ports"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"

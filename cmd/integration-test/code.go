@@ -8,9 +8,9 @@ import (
 
 	osutils "github.com/khulnasoft-lab/utils/os"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/signer"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/testutils"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/signer"
+	"github.com/khulnasoft-lab/vulmap/pkg/testutils"
 )
 
 var isCodeDisabled = func() bool { return osutils.IsWindows() && os.Getenv("CI") == "true" }

@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/ory/dockertest/v3"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/testutils"
+	"github.com/khulnasoft-lab/vulmap/pkg/testutils"
 	osutils "github.com/khulnasoft-lab/utils/os"
 	"go.uber.org/multierr"
 )

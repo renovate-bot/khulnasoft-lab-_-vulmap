@@ -1,10 +1,10 @@
 package ikev2
 
 import (
-	lib_ikev2 "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/ikev2"
+	lib_ikev2 "github.com/khulnasoft-lab/vulmap/pkg/js/libs/ikev2"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

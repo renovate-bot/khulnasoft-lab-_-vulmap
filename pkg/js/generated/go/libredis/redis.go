@@ -1,10 +1,10 @@
 package redis
 
 import (
-	lib_redis "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/redis"
+	lib_redis "github.com/khulnasoft-lab/vulmap/pkg/js/libs/redis"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

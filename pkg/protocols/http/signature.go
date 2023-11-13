@@ -7,7 +7,7 @@ import (
 	"github.com/alecthomas/jsonschema"
 	"github.com/pkg/errors"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/http/signer"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/http/signer"
 )
 
 // SignatureType is the type of signature

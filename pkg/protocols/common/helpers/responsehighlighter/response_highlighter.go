@@ -7,7 +7,7 @@ import (
 
 	"github.com/logrusorgru/aurora"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators"
 )
 
 var colorFunction = aurora.Green

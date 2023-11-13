@@ -3,7 +3,7 @@ package fs
 import (
 	"os"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 )
 
 // ListDir lists all files and directories within a path

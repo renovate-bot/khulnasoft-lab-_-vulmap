@@ -1,7 +1,7 @@
 package generators
 
 import (
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // BuildPayloadFromOptions returns a map with the payloads provided via CLI

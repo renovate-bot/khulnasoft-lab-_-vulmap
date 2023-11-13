@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/generators"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/generators"
 )
 
 // Rule is a single rule which describes how to fuzz the request

@@ -1,7 +1,7 @@
 package reporting
 
 import (
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
 )
 
 // Client is a client for vulmap issue tracking module

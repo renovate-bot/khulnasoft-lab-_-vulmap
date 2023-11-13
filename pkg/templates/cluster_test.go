@@ -3,8 +3,8 @@ package templates
 import (
 	"testing"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/dns"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/http"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/dns"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/http"
 	"github.com/stretchr/testify/require"
 )
 

@@ -17,10 +17,10 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/contextargs"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/testutils/testheadless"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/contextargs"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/testutils/testheadless"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )
 

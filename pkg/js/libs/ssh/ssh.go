@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 	"github.com/zmap/zgrab2/lib/ssh"
 )
 

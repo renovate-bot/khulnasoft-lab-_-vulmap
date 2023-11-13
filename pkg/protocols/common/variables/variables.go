@@ -5,12 +5,12 @@ import (
 	"strings"
 
 	"github.com/alecthomas/jsonschema"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/expressions"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/generators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/interactsh"
-	protocolutils "github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/utils"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/utils"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/expressions"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/generators"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/interactsh"
+	protocolutils "github.com/khulnasoft-lab/vulmap/pkg/protocols/utils"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/utils"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )
 

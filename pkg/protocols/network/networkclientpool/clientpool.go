@@ -2,8 +2,8 @@ package networkclientpool
 
 import (
 	"github.com/khulnasoft-lab/fastdialer/fastdialer"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 var (

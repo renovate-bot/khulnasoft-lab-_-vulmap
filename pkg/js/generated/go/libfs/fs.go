@@ -1,10 +1,10 @@
 package fs
 
 import (
-	lib_fs "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/fs"
+	lib_fs "github.com/khulnasoft-lab/vulmap/pkg/js/libs/fs"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

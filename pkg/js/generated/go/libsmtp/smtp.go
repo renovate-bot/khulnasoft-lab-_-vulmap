@@ -1,10 +1,10 @@
 package smtp
 
 import (
-	lib_smtp "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/smtp"
+	lib_smtp "github.com/khulnasoft-lab/vulmap/pkg/js/libs/smtp"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

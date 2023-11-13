@@ -20,7 +20,7 @@ echo "::group::Installing vulmap templates"
 echo "::endgroup::"
 
 echo "::group::Building latest release of vulmap"
-go build -o vulmap$extension -v github.com/khulnasoft-lab/vulmap/v3/cmd/vulmap
+go build -o vulmap$extension -v github.com/khulnasoft-lab/vulmap/cmd/vulmap
 echo "::endgroup::"
 
 echo 'Starting Vulmap functional test'

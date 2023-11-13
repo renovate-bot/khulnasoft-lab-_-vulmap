@@ -7,13 +7,13 @@ Vulmap was primarily built as a CLI tool, but with increasing choice of users wa
 To add vulmap as a library to your go project, you can use the following command:
 
 ```bash
-go get -u github.com/khulnasoft-lab/vulmap/v3/lib
+go get -u github.com/khulnasoft-lab/vulmap/lib
 ```
 
 Or add below import to your go file and let IDE handle the rest:
 
 ```go
-import vulmap "github.com/khulnasoft-lab/vulmap/v3/lib"
+import vulmap "github.com/khulnasoft-lab/vulmap/lib"
 ```
 
 ## Basic Example of using Vulmap Library/SDK
@@ -75,7 +75,7 @@ For Various use cases like batching etc you might want to run vulmap in goroutin
 
 ## More Documentation
 
-For complete documentation of vulmap library, please refer to [godoc](https://pkg.go.dev/github.com/khulnasoft-lab/vulmap/v3/lib) which contains all available options and methods.
+For complete documentation of vulmap library, please refer to [godoc](https://pkg.go.dev/github.com/khulnasoft-lab/vulmap/lib) which contains all available options and methods.
 
 
 

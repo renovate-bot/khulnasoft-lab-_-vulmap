@@ -7,7 +7,7 @@ import (
 
 	"github.com/go-rod/rod"
 	"github.com/go-rod/rod/lib/utils"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/interactsh"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/interactsh"
 )
 
 // Instance is an isolated browser instance opened for doing operations with it.

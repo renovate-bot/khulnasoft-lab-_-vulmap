@@ -12,8 +12,8 @@ import (
 	"github.com/aws/aws-sdk-go-v2/feature/s3/manager"
 	"github.com/aws/aws-sdk-go-v2/service/s3"
 	"github.com/khulnasoft-lab/gologger"
-	vulmapConfig "github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	vulmapConfig "github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )

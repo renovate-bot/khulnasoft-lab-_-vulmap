@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	vulmap "github.com/khulnasoft-lab/vulmap/v3/lib"
+	vulmap "github.com/khulnasoft-lab/vulmap/lib"
 	"github.com/remeh/sizedwaitgroup"
 )
 

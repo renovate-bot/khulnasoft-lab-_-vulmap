@@ -2,8 +2,8 @@ package signer
 
 import (
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/keys"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/keys"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 )
 

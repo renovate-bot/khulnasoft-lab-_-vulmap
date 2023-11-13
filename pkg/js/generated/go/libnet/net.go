@@ -1,10 +1,10 @@
 package net
 
 import (
-	lib_net "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/net"
+	lib_net "github.com/khulnasoft-lab/vulmap/pkg/js/libs/net"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/disk"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/loader/filter"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/stringslice"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/disk"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/loader/filter"
+	"github.com/khulnasoft-lab/vulmap/pkg/model"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/stringslice"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates"
 	"github.com/stretchr/testify/require"
 )
 

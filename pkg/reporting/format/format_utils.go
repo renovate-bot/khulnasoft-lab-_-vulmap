@@ -6,12 +6,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting/exporters/markdown/util"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/utils"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/model"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting/exporters/markdown/util"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/utils"
 )
 
 // Summary returns a formatted built one line summary of the event

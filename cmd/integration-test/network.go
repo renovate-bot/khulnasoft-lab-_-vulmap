@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/testutils"
+	"github.com/khulnasoft-lab/vulmap/pkg/testutils"
 	osutils "github.com/khulnasoft-lab/utils/os"
 	"github.com/khulnasoft-lab/utils/reader"
 )

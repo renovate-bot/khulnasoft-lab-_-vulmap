@@ -1,10 +1,10 @@
 package pop3
 
 import (
-	lib_pop3 "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/pop3"
+	lib_pop3 "github.com/khulnasoft-lab/vulmap/pkg/js/libs/pop3"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

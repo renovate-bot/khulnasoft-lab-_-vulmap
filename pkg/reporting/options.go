@@ -1,15 +1,15 @@
 package reporting
 
 import (
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting/exporters/es"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting/exporters/jsonexporter"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting/exporters/jsonl"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting/exporters/markdown"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting/exporters/sarif"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting/exporters/splunk"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting/trackers/github"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting/trackers/gitlab"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting/trackers/jira"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting/exporters/es"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting/exporters/jsonexporter"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting/exporters/jsonl"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting/exporters/markdown"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting/exporters/sarif"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting/exporters/splunk"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting/trackers/github"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting/trackers/gitlab"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting/trackers/jira"
 	"github.com/khulnasoft-lab/retryablehttp-go"
 )
 
