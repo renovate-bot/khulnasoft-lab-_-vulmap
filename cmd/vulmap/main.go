@@ -15,7 +15,7 @@ import (
 	"github.com/khulnasoft-lab/goflags"
 	"github.com/khulnasoft-lab/gologger"
 	"github.com/khulnasoft-lab/gologger/levels"
-	"github.com/khulnasoft-lab/interactsh/pkg/client"
+	"github.com/projectdiscovery/interactsh/pkg/client"
 	"github.com/khulnasoft-lab/vulmap/v3/internal/runner"
 	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
 	"github.com/khulnasoft-lab/vulmap/v3/pkg/installer"
