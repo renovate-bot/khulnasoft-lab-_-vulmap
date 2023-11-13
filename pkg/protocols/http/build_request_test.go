@@ -7,12 +7,12 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/contextargs"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/generators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/interactsh"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/testutils"
+	"github.com/khulnasoft-lab/vulmap/pkg/model"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/contextargs"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/generators"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/interactsh"
+	"github.com/khulnasoft-lab/vulmap/pkg/testutils"
 )
 
 func TestMakeRequestFromModal(t *testing.T) {

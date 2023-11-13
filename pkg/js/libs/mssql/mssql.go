@@ -11,7 +11,7 @@ import (
 
 	_ "github.com/denisenkom/go-mssqldb"
 	"github.com/praetorian-inc/fingerprintx/pkg/plugins/services/mssql"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 )
 
 // Client is a client for MS SQL database.

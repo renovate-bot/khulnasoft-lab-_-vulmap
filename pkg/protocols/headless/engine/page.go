@@ -11,9 +11,9 @@ import (
 
 	"github.com/go-rod/rod"
 	"github.com/go-rod/rod/lib/proto"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/contextargs"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/utils"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/contextargs"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/utils"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // Page is a single page in an isolated browser instance

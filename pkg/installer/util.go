@@ -13,7 +13,7 @@ import (
 
 	"github.com/Masterminds/semver/v3"
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 )
 

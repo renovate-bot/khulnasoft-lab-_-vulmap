@@ -8,8 +8,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 	"github.com/khulnasoft-lab/utils/reader"
 )

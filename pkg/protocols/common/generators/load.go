@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/pkg/errors"
-	pkgTypes "github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	pkgTypes "github.com/khulnasoft-lab/vulmap/pkg/types"
 	"github.com/spf13/cast"
 )
 

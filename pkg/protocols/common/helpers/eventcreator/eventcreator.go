@@ -2,10 +2,10 @@ package eventcreator
 
 import (
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/utils/vardump"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/utils/vardump"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
 )

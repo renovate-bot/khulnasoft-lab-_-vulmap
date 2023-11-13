@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates"
 	"github.com/projectdiscovery/uncover"
 	"github.com/projectdiscovery/uncover/sources"
 	mapsutil "github.com/khulnasoft-lab/utils/maps"

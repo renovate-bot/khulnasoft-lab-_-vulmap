@@ -2,9 +2,9 @@ package writer
 
 import (
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/progress"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/progress"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting"
 )
 
 // WriteResult is a helper for writing results to the output

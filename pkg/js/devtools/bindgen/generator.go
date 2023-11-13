@@ -14,7 +14,7 @@ import (
 	_ "embed"
 
 	"github.com/pkg/errors"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/compiler"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/compiler"
 )
 
 var (

@@ -8,7 +8,7 @@ import (
 
 	"github.com/praetorian-inc/fingerprintx/pkg/plugins"
 	"github.com/praetorian-inc/fingerprintx/pkg/plugins/services/vnc"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 )
 
 // VNCClient is a minimal VNC client for vulmap scripts.

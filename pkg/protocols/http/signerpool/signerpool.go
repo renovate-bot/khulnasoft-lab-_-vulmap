@@ -5,9 +5,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/http/signer"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/http/signer"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 var (

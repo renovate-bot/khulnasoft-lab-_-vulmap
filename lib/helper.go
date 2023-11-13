@@ -3,9 +3,9 @@ package vulmap
 import (
 	"context"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
-	uncoverVulmap "github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/uncover"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
+	uncoverVulmap "github.com/khulnasoft-lab/vulmap/pkg/protocols/common/uncover"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates"
 	"github.com/projectdiscovery/uncover"
 )
 

@@ -7,10 +7,10 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/extractors"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/matchers"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/generators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/utils/excludematchers"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/extractors"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/matchers"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/generators"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/utils/excludematchers"
 	sliceutil "github.com/khulnasoft-lab/utils/slice"
 )
 

@@ -7,13 +7,13 @@ import (
 
 	"github.com/alecthomas/chroma/quick"
 	"github.com/logrusorgru/aurora"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/loader"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/loader"
 
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/parsers"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/parsers"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // log available templates for verbose (-vv)

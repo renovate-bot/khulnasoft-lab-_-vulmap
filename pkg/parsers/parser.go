@@ -6,14 +6,14 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/loader/filter"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/cache"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/types"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/utils"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/utils/stats"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/loader/filter"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/cache"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/utils"
+	"github.com/khulnasoft-lab/vulmap/pkg/utils/stats"
 	"gopkg.in/yaml.v2"
 )
 

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
 	"github.com/stretchr/testify/require"
 )
 

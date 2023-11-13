@@ -12,8 +12,8 @@ import (
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/errors"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // Storage is a duplicate detecting storage for vulmap scan events.

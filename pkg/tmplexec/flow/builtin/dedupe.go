@@ -5,7 +5,7 @@ import (
 	"reflect"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // Dedupe is a javascript builtin for deduping values

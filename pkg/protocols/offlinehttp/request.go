@@ -9,14 +9,14 @@ import (
 	"github.com/remeh/sizedwaitgroup"
 
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/contextargs"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/generators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/helpers/eventcreator"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/tostring"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/utils"
-	templateTypes "github.com/khulnasoft-lab/vulmap/v3/pkg/templates/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/contextargs"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/generators"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/helpers/eventcreator"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/tostring"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/utils"
+	templateTypes "github.com/khulnasoft-lab/vulmap/pkg/templates/types"
 )
 
 var _ protocols.Request = &Request{}

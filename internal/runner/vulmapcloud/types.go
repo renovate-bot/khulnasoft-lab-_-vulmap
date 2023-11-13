@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/types"
 )
 
 // AddScanRequest is a vulmap scan input item.

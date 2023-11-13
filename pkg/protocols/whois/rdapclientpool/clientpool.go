@@ -2,7 +2,7 @@ package rdapclientpool
 
 import (
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	"github.com/projectdiscovery/rdap"
 )
 

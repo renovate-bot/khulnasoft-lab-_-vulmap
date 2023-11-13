@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-ldap/ldap/v3"
 	"github.com/praetorian-inc/fingerprintx/pkg/plugins"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 
 	pluginldap "github.com/praetorian-inc/fingerprintx/pkg/plugins/services/ldap"
 )

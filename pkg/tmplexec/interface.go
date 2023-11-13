@@ -1,11 +1,11 @@
 package tmplexec
 
 import (
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/contextargs"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/tmplexec/flow"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/tmplexec/generic"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/tmplexec/multiproto"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/contextargs"
+	"github.com/khulnasoft-lab/vulmap/pkg/tmplexec/flow"
+	"github.com/khulnasoft-lab/vulmap/pkg/tmplexec/generic"
+	"github.com/khulnasoft-lab/vulmap/pkg/tmplexec/multiproto"
 )
 
 var (

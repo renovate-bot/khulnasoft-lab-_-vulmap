@@ -8,8 +8,8 @@ import (
 	"github.com/h2non/filetype"
 	"github.com/pkg/errors"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
 )
 
 var (

@@ -8,7 +8,7 @@ import (
 
 	"github.com/praetorian-inc/fingerprintx/pkg/plugins"
 	"github.com/praetorian-inc/fingerprintx/pkg/plugins/services/telnet"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 )
 
 // TelnetClient is a minimal Telnet client for vulmap scripts.

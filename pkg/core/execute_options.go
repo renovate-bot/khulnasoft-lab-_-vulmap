@@ -7,11 +7,11 @@ import (
 	"github.com/remeh/sizedwaitgroup"
 
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/contextargs"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/types"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types/scanstrategy"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/contextargs"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/types/scanstrategy"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )
 

@@ -8,7 +8,7 @@ import (
 
 	"github.com/hirochachacha/go-smb2"
 	"github.com/praetorian-inc/fingerprintx/pkg/plugins"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 	"github.com/zmap/zgrab2/lib/smb/smb"
 )
 

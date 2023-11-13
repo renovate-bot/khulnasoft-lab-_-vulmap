@@ -10,16 +10,16 @@ import (
 	"github.com/logrusorgru/aurora"
 
 	"github.com/khulnasoft-lab/gologger/levels"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/disk"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/progress"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolinit"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/utils"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/disk"
+	"github.com/khulnasoft-lab/vulmap/pkg/model"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/progress"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolinit"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/utils"
 )
 
 // Init initializes the protocols and their configurations

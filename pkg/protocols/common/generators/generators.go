@@ -5,8 +5,8 @@ package generators
 import (
 	"github.com/pkg/errors"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // PayloadGenerator is the generator struct for generating payloads

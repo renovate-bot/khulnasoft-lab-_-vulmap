@@ -8,13 +8,13 @@ import (
 	"github.com/miekg/dns"
 	"github.com/stretchr/testify/require"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/extractors"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/matchers"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/testutils"
+	"github.com/khulnasoft-lab/vulmap/pkg/model"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/extractors"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/matchers"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/testutils"
 )
 
 func TestResponseToDSLMap(t *testing.T) {

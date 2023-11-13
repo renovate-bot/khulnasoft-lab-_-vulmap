@@ -1,10 +1,10 @@
 package smb
 
 import (
-	lib_smb "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/smb"
+	lib_smb "github.com/khulnasoft-lab/vulmap/pkg/js/libs/smb"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

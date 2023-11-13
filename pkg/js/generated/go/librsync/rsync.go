@@ -1,10 +1,10 @@
 package rsync
 
 import (
-	lib_rsync "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/rsync"
+	lib_rsync "github.com/khulnasoft-lab/vulmap/pkg/js/libs/rsync"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

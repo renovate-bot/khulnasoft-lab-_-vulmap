@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // CleanStructFieldJSONTag cleans struct json tag field

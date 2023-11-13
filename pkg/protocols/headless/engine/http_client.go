@@ -12,9 +12,9 @@ import (
 	"golang.org/x/net/proxy"
 
 	"github.com/khulnasoft-lab/fastdialer/fastdialer/ja3/impersonate"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/utils"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/utils"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // newHttpClient creates a new http client for headless communication with a timeout

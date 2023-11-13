@@ -19,12 +19,12 @@ import (
 
 	"github.com/khulnasoft-lab/gologger"
 	"github.com/projectdiscovery/interactsh/pkg/server"
-	"github.com/khulnasoft-lab/vulmap/v3/internal/colorizer"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/utils"
+	"github.com/khulnasoft-lab/vulmap/internal/colorizer"
+	"github.com/khulnasoft-lab/vulmap/pkg/model"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/utils"
 	fileutil "github.com/khulnasoft-lab/utils/file"
 	osutils "github.com/khulnasoft-lab/utils/os"
 )

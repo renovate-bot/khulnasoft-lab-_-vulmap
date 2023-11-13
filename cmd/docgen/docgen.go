@@ -10,10 +10,10 @@ import (
 
 	"github.com/alecthomas/jsonschema"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates"
 )
 
-var pathRegex = regexp.MustCompile(`github\.com/khulnasoft-lab/vulmap/v3/(?:internal|pkg)/(?:.*/)?([A-Za-z.]+)`)
+var pathRegex = regexp.MustCompile(`github\.com/khulnasoft-lab/vulmap/(?:internal|pkg)/(?:.*/)?([A-Za-z.]+)`)
 
 func main() {
 	// Generate yaml syntax documentation

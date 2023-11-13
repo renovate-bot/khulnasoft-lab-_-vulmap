@@ -1,10 +1,10 @@
 package postgres
 
 import (
-	lib_postgres "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/postgres"
+	lib_postgres "github.com/khulnasoft-lab/vulmap/pkg/js/libs/postgres"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

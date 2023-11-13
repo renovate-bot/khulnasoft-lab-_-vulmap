@@ -11,8 +11,8 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/praetorian-inc/fingerprintx/pkg/plugins"
 	mysqlplugin "github.com/praetorian-inc/fingerprintx/pkg/plugins/services/mysql"
-	utils "github.com/khulnasoft-lab/vulmap/v3/pkg/js/utils"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
+	utils "github.com/khulnasoft-lab/vulmap/pkg/js/utils"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 )
 
 // MySQLClient is a client for MySQL database.

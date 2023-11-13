@@ -3,16 +3,16 @@
 package templates
 
 import (
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/stringslice"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/extractors"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/matchers"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/dns"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/file"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/http"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/network"
+	"github.com/khulnasoft-lab/vulmap/pkg/model"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/stringslice"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/extractors"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/matchers"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/dns"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/file"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/http"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/network"
 )
 
 var (

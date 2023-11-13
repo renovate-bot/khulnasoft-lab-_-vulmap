@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/khulnasoft-lab/goflags"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/stringslice"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/stringslice"
 )
 
 // Severities used by the goflags library for parsing an array of Severity types, passed as CLI arguments from the user

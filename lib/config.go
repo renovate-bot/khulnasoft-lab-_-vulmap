@@ -5,14 +5,14 @@ import (
 	"time"
 
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/progress"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/hosterrorscache"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/interactsh"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/utils/vardump"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/headless/engine"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/templates/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/progress"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/hosterrorscache"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/interactsh"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/utils/vardump"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/headless/engine"
+	"github.com/khulnasoft-lab/vulmap/pkg/templates/types"
 	"github.com/khulnasoft-lab/ratelimit"
 )
 

@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/pkg/errors"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
 	fileutil "github.com/khulnasoft-lab/utils/file"
 	urlutil "github.com/khulnasoft-lab/utils/url"
 )

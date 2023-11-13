@@ -5,15 +5,15 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/extractors"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/matchers"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/output"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/helpers/responsehighlighter"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/utils"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/model"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/extractors"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/matchers"
+	"github.com/khulnasoft-lab/vulmap/pkg/output"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/helpers/responsehighlighter"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/utils"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // Match matches a generic data response again a given matcher

@@ -2,10 +2,10 @@ package parsers
 
 import (
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/loader/filter"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/loader/filter"
+	"github.com/khulnasoft-lab/vulmap/pkg/model"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
 )
 
 type workflowLoader struct {

@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/structs"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/libs/structs"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 	"github.com/khulnasoft-lab/utils/reader"
 )
 

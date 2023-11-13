@@ -1,7 +1,7 @@
 package engine
 
 import (
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/marker"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/marker"
 	"github.com/valyala/fasttemplate"
 )
 

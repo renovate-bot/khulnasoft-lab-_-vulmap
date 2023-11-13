@@ -1,7 +1,7 @@
 package filter
 
 import (
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog"
 )
 
 // PathFilter is a path based template filter

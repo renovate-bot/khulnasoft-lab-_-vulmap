@@ -3,13 +3,13 @@ package protocolinit
 import (
 	"github.com/corpix/uarand"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/dns/dnsclientpool"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/http/httpclientpool"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/http/signerpool"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/network/networkclientpool"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/whois/rdapclientpool"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/dns/dnsclientpool"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/http/httpclientpool"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/http/signerpool"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/network/networkclientpool"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/whois/rdapclientpool"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // Init initializes the client pools for the protocols

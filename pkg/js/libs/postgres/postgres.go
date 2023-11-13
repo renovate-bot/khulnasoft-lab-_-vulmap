@@ -12,8 +12,8 @@ import (
 	_ "github.com/lib/pq"
 	"github.com/praetorian-inc/fingerprintx/pkg/plugins"
 	postgres "github.com/praetorian-inc/fingerprintx/pkg/plugins/services/postgresql"
-	utils "github.com/khulnasoft-lab/vulmap/v3/pkg/js/utils"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
+	utils "github.com/khulnasoft-lab/vulmap/pkg/js/utils"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 )
 
 // PGClient is a client for Postgres database.

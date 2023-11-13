@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/khulnasoft-lab/goflags"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	"github.com/stretchr/testify/require"
 )
 

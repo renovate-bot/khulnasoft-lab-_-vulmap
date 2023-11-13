@@ -1,10 +1,10 @@
 package rdp
 
 import (
-	lib_rdp "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/rdp"
+	lib_rdp "github.com/khulnasoft-lab/vulmap/pkg/js/libs/rdp"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

@@ -6,12 +6,12 @@ import (
 	"github.com/miekg/dns"
 	"github.com/pkg/errors"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/expressions"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/generators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/replacer"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/dns/dnsclientpool"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/expressions"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/generators"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/replacer"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/dns/dnsclientpool"
 	"github.com/khulnasoft-lab/retryabledns"
 	fileutil "github.com/khulnasoft-lab/utils/file"
 )

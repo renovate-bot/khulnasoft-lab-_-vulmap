@@ -1,10 +1,10 @@
 package goconsole
 
 import (
-	lib_goconsole "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/goconsole"
+	lib_goconsole "github.com/khulnasoft-lab/vulmap/pkg/js/libs/goconsole"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

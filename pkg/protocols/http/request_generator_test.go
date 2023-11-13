@@ -5,9 +5,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/disk"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/generators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/disk"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/generators"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 func TestRequestGeneratorPaths(t *testing.T) {

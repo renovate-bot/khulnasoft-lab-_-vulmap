@@ -1,8 +1,8 @@
 package model
 
 import (
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/stringslice"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/stringslice"
 )
 
 // Info contains metadata information about a template

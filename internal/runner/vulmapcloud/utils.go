@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
 )
 
 const DDMMYYYYhhmmss = "2006-01-02 15:04:05"

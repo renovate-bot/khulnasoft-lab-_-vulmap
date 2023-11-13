@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	mapsutil "github.com/khulnasoft-lab/utils/maps"
 )
 

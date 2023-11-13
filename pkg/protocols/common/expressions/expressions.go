@@ -5,9 +5,9 @@ import (
 
 	"github.com/Knetic/govaluate"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/common/dsl"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/marker"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/replacer"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/common/dsl"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/marker"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/replacer"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )
 

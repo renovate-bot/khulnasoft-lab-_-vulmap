@@ -1,10 +1,10 @@
 package kerberos
 
 import (
-	lib_kerberos "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/kerberos"
+	lib_kerberos "github.com/khulnasoft-lab/vulmap/pkg/js/libs/kerberos"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

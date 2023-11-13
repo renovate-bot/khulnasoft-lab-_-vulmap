@@ -5,8 +5,8 @@ import (
 
 	"github.com/projectdiscovery/fasttemplate"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/marker"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/marker"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // Replace replaces placeholders in template with values on the fly.

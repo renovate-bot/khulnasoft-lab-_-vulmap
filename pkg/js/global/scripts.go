@@ -11,9 +11,9 @@ import (
 	"github.com/dop251/goja"
 	"github.com/logrusorgru/aurora"
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/utils/vardump"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/utils/vardump"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )

@@ -6,8 +6,8 @@ import (
 
 	"github.com/logrusorgru/aurora"
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
 	mapsutil "github.com/khulnasoft-lab/utils/maps"
 )
 

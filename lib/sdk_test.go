@@ -3,7 +3,7 @@ package vulmap_test
 import (
 	"testing"
 
-	vulmap "github.com/khulnasoft-lab/vulmap/v3/lib"
+	vulmap "github.com/khulnasoft-lab/vulmap/lib"
 	"github.com/stretchr/testify/require"
 )
 

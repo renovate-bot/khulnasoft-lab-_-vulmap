@@ -7,7 +7,7 @@ import (
 
 	"github.com/alecthomas/jsonschema"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/utils"
+	"github.com/khulnasoft-lab/vulmap/pkg/utils"
 )
 
 // StringSlice represents a single (in-lined) or multiple string value(s).

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 	"github.com/redis/go-redis/v9"
 
 	"github.com/praetorian-inc/fingerprintx/pkg/plugins"

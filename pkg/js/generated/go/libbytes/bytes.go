@@ -1,10 +1,10 @@
 package bytes
 
 import (
-	lib_bytes "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/bytes"
+	lib_bytes "github.com/khulnasoft-lab/vulmap/pkg/js/libs/bytes"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

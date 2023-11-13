@@ -1,10 +1,10 @@
 package telnet
 
 import (
-	lib_telnet "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/telnet"
+	lib_telnet "github.com/khulnasoft-lab/vulmap/pkg/js/libs/telnet"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

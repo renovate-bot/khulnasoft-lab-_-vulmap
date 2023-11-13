@@ -1,10 +1,10 @@
 package structs
 
 import (
-	lib_structs "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/structs"
+	lib_structs "github.com/khulnasoft-lab/vulmap/pkg/js/libs/structs"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

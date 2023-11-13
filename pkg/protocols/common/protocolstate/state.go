@@ -10,7 +10,7 @@ import (
 
 	"github.com/khulnasoft-lab/fastdialer/fastdialer"
 	"github.com/khulnasoft-lab/networkpolicy"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )
 
 // Dialer is a shared fastdialer instance for host DNS resolution

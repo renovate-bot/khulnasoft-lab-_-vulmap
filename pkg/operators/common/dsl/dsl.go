@@ -8,8 +8,8 @@ import (
 	"github.com/miekg/dns"
 	"github.com/khulnasoft-lab/dsl"
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/dns/dnsclientpool"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/dns/dnsclientpool"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	sliceutil "github.com/khulnasoft-lab/utils/slice"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )

@@ -6,10 +6,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/severity"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/stringslice"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/reporting/exporters/markdown/util"
+	"github.com/khulnasoft-lab/vulmap/pkg/model"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/severity"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/stringslice"
+	"github.com/khulnasoft-lab/vulmap/pkg/reporting/exporters/markdown/util"
 )
 
 func TestToMarkdownTableString(t *testing.T) {

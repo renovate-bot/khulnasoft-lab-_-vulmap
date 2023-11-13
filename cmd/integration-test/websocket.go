@@ -6,7 +6,7 @@ import (
 
 	"github.com/gobwas/ws/wsutil"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/testutils"
+	"github.com/khulnasoft-lab/vulmap/pkg/testutils"
 )
 
 var websocketTestCases = []TestCaseInfo{

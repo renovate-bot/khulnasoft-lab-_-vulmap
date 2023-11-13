@@ -3,7 +3,7 @@ package installer
 import (
 	"testing"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/catalog/config"
+	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
 	"github.com/khulnasoft-lab/utils/generic"
 	"github.com/stretchr/testify/require"
 )

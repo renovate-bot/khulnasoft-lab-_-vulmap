@@ -3,7 +3,7 @@ package customtemplates
 import (
 	"context"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 )
 

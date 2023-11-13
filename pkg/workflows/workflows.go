@@ -3,10 +3,10 @@ package workflows
 import (
 	"fmt"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/model/types/stringslice"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols"
-	templateTypes "github.com/khulnasoft-lab/vulmap/v3/pkg/templates/types"
+	"github.com/khulnasoft-lab/vulmap/pkg/model/types/stringslice"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
+	templateTypes "github.com/khulnasoft-lab/vulmap/pkg/templates/types"
 )
 
 // Workflow is a workflow to execute with chained requests, etc.

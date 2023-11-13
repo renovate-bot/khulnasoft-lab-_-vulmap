@@ -10,8 +10,8 @@ import (
 
 	dslRepo "github.com/khulnasoft-lab/dsl"
 	"github.com/khulnasoft-lab/gologger"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/operators/common/dsl"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/expressions"
+	"github.com/khulnasoft-lab/vulmap/pkg/operators/common/dsl"
+	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/expressions"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )
 

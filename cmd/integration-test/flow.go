@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/testutils"
+	"github.com/khulnasoft-lab/vulmap/pkg/testutils"
 )
 
 var flowTestcases = []TestCaseInfo{

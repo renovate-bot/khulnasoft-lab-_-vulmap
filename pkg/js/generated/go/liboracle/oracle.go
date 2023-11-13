@@ -1,10 +1,10 @@
 package oracle
 
 import (
-	lib_oracle "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/oracle"
+	lib_oracle "github.com/khulnasoft-lab/vulmap/pkg/js/libs/oracle"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

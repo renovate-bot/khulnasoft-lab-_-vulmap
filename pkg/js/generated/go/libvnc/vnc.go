@@ -1,10 +1,10 @@
 package vnc
 
 import (
-	lib_vnc "github.com/khulnasoft-lab/vulmap/v3/pkg/js/libs/vnc"
+	lib_vnc "github.com/khulnasoft-lab/vulmap/pkg/js/libs/vnc"
 
 	"github.com/dop251/goja"
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/js/gojs"
+	"github.com/khulnasoft-lab/vulmap/pkg/js/gojs"
 )
 
 var (

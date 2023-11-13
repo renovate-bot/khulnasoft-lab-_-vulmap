@@ -18,7 +18,7 @@ import (
 	"github.com/julienschmidt/httprouter"
 	"gopkg.in/yaml.v2"
 
-	"github.com/khulnasoft-lab/vulmap/v3/pkg/testutils"
+	"github.com/khulnasoft-lab/vulmap/pkg/testutils"
 	"github.com/khulnasoft-lab/retryablehttp-go"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 	fileutil "github.com/khulnasoft-lab/utils/file"
