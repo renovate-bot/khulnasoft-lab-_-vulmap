@@ -23,7 +23,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/protocolstate"
 	"github.com/khulnasoft-lab/vulmap/v3/pkg/protocols/common/uncover"
 	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
-	uncoverlib "github.com/khulnasoft-lab/uncover"
+	uncoverlib "github.com/projectdiscovery/uncover"
 	fileutil "github.com/khulnasoft-lab/utils/file"
 	iputil "github.com/khulnasoft-lab/utils/ip"
 	readerutil "github.com/khulnasoft-lab/utils/reader"

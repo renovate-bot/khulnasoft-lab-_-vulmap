@@ -14,7 +14,7 @@ import (
 
 	"github.com/khulnasoft-lab/vulmap/v3/internal/runner/vulmapcloud"
 	"github.com/khulnasoft-lab/vulmap/v3/pkg/installer"
-	uncoverlib "github.com/khulnasoft-lab/uncover"
+	uncoverlib "github.com/projectdiscovery/uncover"
 	permissionutil "github.com/khulnasoft-lab/utils/permission"
 	updateutils "github.com/khulnasoft-lab/utils/update"
 

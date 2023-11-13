@@ -3,7 +3,7 @@ package rdapclientpool
 import (
 	"github.com/khulnasoft-lab/gologger"
 	"github.com/khulnasoft-lab/vulmap/v3/pkg/types"
-	"github.com/khulnasoft-lab/rdap"
+	"github.com/projectdiscovery/rdap"
 )
 
 var normalClient *rdap.Client

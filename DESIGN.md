@@ -179,7 +179,7 @@ ResultEvent structure is passed to the Vulmap Output Writer which contains the e
 
 Interactsh module is used to provide automatic Out-of-Band vulnerability identification in Vulmap. 
 
-It uses two LRU caches, one for storing interactions for request URLs and one for storing requests for interaction URL. These both caches are used to correlated requests received to the Interactsh OOB server and Vulmap Instance. [Interactsh Client](https://github.com/khulnasoft-lab/interactsh/pkg/client) package does most of the heavy lifting of this module.
+It uses two LRU caches, one for storing interactions for request URLs and one for storing requests for interaction URL. These both caches are used to correlated requests received to the Interactsh OOB server and Vulmap Instance. [Interactsh Client](https://github.com/projectdiscovery/interactsh/pkg/client) package does most of the heavy lifting of this module.
 
 Polling for interactions and server registration only starts when a template uses the interactsh module and is executed by vulmap. After that no registration is required for the entire run.
 
