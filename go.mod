@@ -9,7 +9,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.4.0 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.3.0 // indirect
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.1.1 // indirect
-	github.com/Knetic/govaluate v3.0.0+incompatible // indirect
+	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible // indirect
 	github.com/Masterminds/semver/v3 v3.2.1 // indirect
 	github.com/Mzack9999/go-http-digest-auth-client v0.6.1-0.20220414142836-eb8883508809 // indirect
 	github.com/Mzack9999/ldapserver v1.0.2-0.20211229000134-b44a0d6ad0dd // indirect
@@ -49,13 +49,13 @@ require (
 	github.com/iancoleman/orderedmap v0.0.0-20190318233801-ac98e3ecb4b0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/khulnasoft-lab/blackrock v0.0.5 // indirect
-	github.com/khulnasoft-lab/fastdialer v0.0.37 // indirect
+	github.com/khulnasoft-lab/fastdialer v0.0.38 // indirect
 	github.com/khulnasoft-lab/goflags v0.1.16 // indirect
 	github.com/khulnasoft-lab/gologger v1.1.13 // indirect
 	github.com/khulnasoft-lab/hmap v0.0.17 // indirect
 	github.com/khulnasoft-lab/networkpolicy v0.0.8 // indirect
 	github.com/khulnasoft-lab/rawhttp v0.1.20 // indirect
-	github.com/khulnasoft-lab/retryabledns v1.0.32 // indirect
+	github.com/khulnasoft-lab/retryabledns v1.0.34 // indirect
 	github.com/khulnasoft-lab/retryablehttp-go v1.0.21 // indirect
 	github.com/khulnasoft-lab/utils v0.0.47 // indirect
 	github.com/khulnasoft-labs/yamldoc-go v1.0.7 // indirect
@@ -128,22 +128,22 @@ require (
 	github.com/yuin/goldmark-emoji v1.0.1 // indirect
 	github.com/zeebo/blake3 v0.2.3 // indirect
 	github.com/zmap/rc2 v0.0.0-20190804163417-abaa70531248 // indirect
-	github.com/zmap/zcrypto v0.0.0-20231018155041-c1c1128be414 // indirect
+	github.com/zmap/zcrypto v0.0.0-20231106212110-94c8f62efae4 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.25.0 // indirect
 	goftp.io/server/v2 v2.0.1 // indirect
-	golang.org/x/crypto v0.14.0 // indirect
-	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
-	golang.org/x/mod v0.13.0 // indirect
-	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/crypto v0.15.0 // indirect
+	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
+	golang.org/x/mod v0.14.0 // indirect
+	golang.org/x/net v0.18.0 // indirect
 	golang.org/x/oauth2 v0.13.0 // indirect
 	golang.org/x/sync v0.5.0 // indirect
 	golang.org/x/sys v0.14.0 // indirect
 	golang.org/x/term v0.14.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
-	golang.org/x/tools v0.14.0 // indirect
+	golang.org/x/tools v0.15.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6 // indirect
@@ -169,6 +169,7 @@ require (
 	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
 	github.com/cloudflare/cfssl v1.6.4 // indirect
 	github.com/containerd/continuity v0.4.2 // indirect
+	github.com/corpix/uarand v0.2.0 // indirect
 	github.com/denisbrodbeck/machineid v1.0.1 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/docker/cli v24.0.5+incompatible // indirect
@@ -199,6 +200,9 @@ require (
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/kataras/jwt v0.1.10 // indirect
+	github.com/khulnasoft-lab/cdncheck v1.0.13 // indirect
+	github.com/khulnasoft-lab/httpx v1.3.6 // indirect
+	github.com/khulnasoft-lab/tlsx v0.0.0-20231101045244-b306c2a45866 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/moby/term v0.5.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
